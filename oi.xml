@@ -8,6 +8,7 @@
     <string name="TitleScene_Highscores">Rankings</string>
     <string name="TitleScene_Badges">Conquistas</string>
 
-<string name="Teste">Meu Teste xpto</string>
+    <string name="Teste">Meu Teste xpto</string>
+    <string name="Novo">Novo teste de clonagem</string>
  
 </resources>
