@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!--  GENERAL STRINGS VARIABLES  -->
+    <string name="app_name">Pixel Dungeon</string>
+
+    <!--  STRINGS OF TitleScene CLASS  -->
+    <string name="TitleScene_Play">Jogar</string>
+    <string name="TitleScene_Highscores">Rankings</string>
+    <string name="TitleScene_Badges">Conquistas</string>
+ 
+</resources>
